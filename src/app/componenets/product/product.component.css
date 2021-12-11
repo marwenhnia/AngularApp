@@ -1,0 +1,18 @@
+
+#firstNav{
+margin-left: auto;
+
+}
+li{
+    margin-left: 20px;
+}
+.search-form{
+    vertical-align: baseline;
+    margin-left: 10px;
+}
+button:hover{
+    color: white;
+}
+.container{
+    height: 100%;
+}
